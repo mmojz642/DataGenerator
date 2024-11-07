@@ -1,6 +1,6 @@
 # DataGenerator
 
-DataGenerator is a Python library to make some random data following several distributions and
+DataGenerator is a Streamlit test app to make some random data following several distributions and
 dumping the data to disk from a pandas dataframe. 
 
 The data is generated from multi-variate normal distributions then reformed to 
